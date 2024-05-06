@@ -17,7 +17,8 @@ To prevent scam/fraud, users may have the option to verify their shared applicat
 ## Third-Party links
 The shared applications may include third-party links that may lead to gambling websites, scams, etc., please be careful when opening these links because they may be harmful.
 > [!NOTE]
-> Any links in the shared applications will be colored, red. Please be observant between orange and red since they may be mistaken of being orange.
+> Any links in the shared applications will be colored, red. Please be observant between orange and red since they may be mistaken of being orange.<br>
+
 > [!CAUTION]
 > Exploiters may change the link's color to orange with the use of tweaks or changing files.
 
